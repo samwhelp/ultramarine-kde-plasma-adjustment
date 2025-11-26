@@ -10,25 +10,8 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Ultramarine Kde Plasma Adjustment](https://samwhelp.github.io/ultramarine-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-kde-plasma-adjustment) |
-
-
-
-
-## Subject
-
-* [Adjustment](#adjustment)
-* [Link](#link)
-
-
-
-
-## Adjustment
-
-| Adjustment |
-| -------- |
-| [Ultramarine Kde Plasma](https://github.com/samwhelp/ultramarine-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
-| [Ultramarine Adjustment](https://samwhelp.github.io/ultramarine-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-adjustment) |
 | [Ultramarine Kde Plasma Note](https://samwhelp.github.io/note-about-ultramarine-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-kde-plasma) |
+| [Ultramarine Adjustment](https://samwhelp.github.io/ultramarine-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-adjustment) |
 
 
 > [Keybind Cheatsheet](https://samwhelp.github.io/ultramarine-kde-plasma-adjustment/read/cheatsheet/keybind.html)
